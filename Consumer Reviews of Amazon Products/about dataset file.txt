@@ -1,0 +1,2 @@
+This dataset is a list of 5,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more from Datafiniti's Product Database updated between September 2017 and October 2018. Each product listing includes the name Amazon in the Brand and Manufacturer field. All fields within this dataset have been flattened, with some omitted, to streamline your data analysis. This version is a sample of a large dataset. The full dataset is available through Datafiniti.
+

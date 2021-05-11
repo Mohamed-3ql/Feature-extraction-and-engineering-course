@@ -1,0 +1,16 @@
+Context
+This dataset consists of a 14337 Amazon reviews, star ratings, for 10 latest (as of mid-2019) bluetooth earphone devices for learning how to train Machine for sentiment analysis.
+
+What you can do with this Data?
+You can use this data to analyze what customers saying about Bluetooth earphone devices; discover insights into consumer reviews and assist with machine learning models. You can also train your machine models for aspect level sentiment analysis.
+
+Source
+Extracted from Amazon's website
+
+About this file
+The reviews of customers about the products
+all products review file
+
+About this file
+The master data of the 10 Bluetooth earphones which includes Product Name, Product Short Description, Price, URL
+products information file
